@@ -1,0 +1,6 @@
+com/peres/kafka/spring/FruitConsumer.java
+ com.peres.kafka.spring.FruitConsumer
+com/peres/kafka/spring/Fruit.java
+ com.peres.kafka.spring.Fruit
+com/peres/kafka/spring/Main.java
+ com.peres.kafka.spring.Main
